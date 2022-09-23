@@ -1,0 +1,1 @@
+import React from 'react';import './account.scss';export const AccountComponent: React.FC = () => {    return (        <div>            <h2>Account component</h2>        </div>    );};

@@ -1,0 +1,1 @@
+import React from 'react';import './nowInCinema.scss';export const NowInCinema: React.FC = () => {    return (        <div>            <h2>NowInCinema</h2>        </div>    );};

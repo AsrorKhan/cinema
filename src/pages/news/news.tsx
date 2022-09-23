@@ -1,0 +1,1 @@
+import React from 'react';import './news.scss';export const NewsComponent: React.FC = () => {    return (        <div>            <h2>News Component</h2>        </div>    );};

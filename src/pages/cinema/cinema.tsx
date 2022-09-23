@@ -1,0 +1,1 @@
+import React from 'react';import './cinema.scss';export const CinemaComponent: React.FC = () => {    return (        <div>            <h2>CinemaComponent</h2>        </div>    );};

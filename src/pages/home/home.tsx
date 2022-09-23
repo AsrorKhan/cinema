@@ -1,0 +1,1 @@
+import React from 'react';import './home.scss';export const Home: React.FC = () => {    return (        <div>            <h2>Home Component</h2>        </div>    );};
