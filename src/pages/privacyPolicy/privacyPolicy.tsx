@@ -1,0 +1,1 @@
+import React, { FC } from 'react';import './privacyPolicy.scss';export const PrivacyPolicyComponent: FC = () => {   return (      <div>         <h3>PrivacyPolicyComponent</h3>      </div>   );};

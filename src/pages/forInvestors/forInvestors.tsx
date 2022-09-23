@@ -1,0 +1,1 @@
+import React, { FC } from 'react';import './forInvestors.scss';export const ForInvestorsComponent: FC = () => {   return (      <div>         <h2>ForInvestorsComponent</h2>      </div>   );};

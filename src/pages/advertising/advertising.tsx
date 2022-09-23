@@ -1,0 +1,1 @@
+import React, { FC } from 'react';import './advertising.scss';export const AdvertisingComponent: FC = () => {   return (      <div>         <h3>AdvertisingComponent</h3>      </div>   );};

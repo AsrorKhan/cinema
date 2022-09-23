@@ -1,0 +1,1 @@
+import React, { FC } from 'react';import './faq.scss';export const FAQComponent: FC = () => {   return (      <div>         <h3>FAQComponent</h3>      </div>   );};

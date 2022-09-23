@@ -1,0 +1,1 @@
+import React, { FC } from 'react';import './buyRefundingTickets.scss';export const BuyRefundingTicketsComponent: FC = () => {   return (      <div>         <h2>BuyRefundingTicketsComponent</h2>      </div>   );};
